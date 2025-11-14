@@ -74,6 +74,4 @@ These will be added in future updates:
 
 🧭 Better UI & navigation
 
-👤 Author
-
-Satchit K
+👤 Author:Satchit Kotgiri
